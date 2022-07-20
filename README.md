@@ -1,4 +1,4 @@
-# Codecademy Challenge: Credit-Card-Checker
+# Codecademy Challenge: Mystery Organism Starter
 
 ## The challenge proposed:
 1. Create a function which takes two parameters and returns an object with the followings properties:
